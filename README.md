@@ -42,7 +42,7 @@ medical-jargon-translator/
 └── README.md
 ```
 
-## ⚙️ Features
+## Features
 
 ### Medical Note Input
 
